@@ -1,0 +1,22 @@
+[
+  {
+    "libraryIdentifier" : "9b227db21c73db71c9d5e67bf85d4a81",
+    "format" : "model",
+    "displayName" : "sabai3D.usdz"
+  },
+  {
+    "libraryIdentifier" : "c216bbe835ff9773437e64c92f4429f6",
+    "format" : "model",
+    "displayName" : "dayon3D.usdz"
+  },
+  {
+    "libraryIdentifier" : "1ce27418b50eda967c9c99555da976ce",
+    "format" : "model",
+    "displayName" : "deliverance3D.usdz"
+  },
+  {
+    "libraryIdentifier" : "9a195d5b95090600150a8c8b0e39f607",
+    "format" : "model",
+    "displayName" : "wow.usdz"
+  }
+]
